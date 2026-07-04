@@ -1,0 +1,22 @@
+# macOS system cache files
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Jupyter Notebook cache
+.ipynb_checkpoints
+*.ipynb_backup
+*.nbconvert.ipynb
+
+# Python runtime cache
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+
+# GetDist temporary output files
+*.minimize
+*.converge
+*.likestats
+*.paramnames
