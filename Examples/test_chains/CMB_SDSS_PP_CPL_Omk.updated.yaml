@@ -599,9 +599,9 @@ sampler:
     - - 1
       - - logA
         - ns
-    - - 7
+    - - 5
       - - A_planck
-    - - 7
+    - - 5
       - - amp_143
         - amp_217
         - amp_143x217
